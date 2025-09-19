@@ -1,0 +1,64 @@
+{
+  "ideas": [
+    {
+      "id": 1,
+      "username": "unknown_user",
+      "title": "Atomic Idea Timestamping",
+      "description": "Publish a cryptographic timestamp for your idea so the network can prove when it was first submitted without revealing sensitive details.",
+      "likes": 86,
+      "comments": 12,
+      "timeAgo": "3h",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "username": "unknown_user",
+      "title": "Zero-Knowledge Proof Templates",
+      "description": "Share reusable ZKP templates that let others verify attributes of your idea (ownership, originality) without revealing the content itself.",
+      "likes": 54,
+      "comments": 9,
+      "timeAgo": "6h",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "username": "unknown_user",
+      "title": "IP Escrow Flow for Idea Licensing",
+      "description": "A smart-contract pattern to escrow idea access and release licensing rights automatically once on-chain conditions are met.",
+      "likes": 47,
+      "comments": 6,
+      "timeAgo": "1d",
+      "verified": false
+    },
+    {
+      "id": 4,
+      "username": "unknown_user",
+      "title": "Selective Disclosure Protocol",
+      "description": "Method for sharing only necessary fragments of an idea with prospective collaborators while proving ownership to the network.",
+      "likes": 73,
+      "comments": 18,
+      "timeAgo": "4h",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "username": "unknown_user",
+      "title": "Incentivized Review Mechanism",
+      "description": "Design a token-based reputation and reward system for community reviewers that scales and resists manipulation.",
+      "likes": 39,
+      "comments": 5,
+      "timeAgo": "2d",
+      "verified": false
+    },
+    {
+      "id": 6,
+      "username": "unknown_user",
+      "title": "Secure Collaboration Channels",
+      "description": "Encrypted off-chain collaboration channels with on-chain anchors to prove the ordering and participants of discussions.",
+      "likes": 61,
+      "comments": 11,
+      "timeAgo": "8h",
+      "verified": true
+    }
+  ]
+}
